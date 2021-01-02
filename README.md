@@ -14,7 +14,7 @@
 
 ### Language & Tools:
 
-<img src='https://user-images.githubusercontent.com/21959879/103458405-84168b80-4d29-11eb-999f-d3d0b0bc8a0a.png' width='34' align="left"/>
+<img src='https://user-images.githubusercontent.com/21959879/103458405-84168b80-4d29-11eb-999f-d3d0b0bc8a0a.png' width='34' align="left" />
 <img src='https://user-images.githubusercontent.com/21959879/103458459-46663280-4d2a-11eb-9b33-381157ce7fa6.png'  width='34' align="left"/>
 <img src='https://user-images.githubusercontent.com/21959879/103458496-a230bb80-4d2a-11eb-871d-7656b6e673e0.png'  width='34' align="left"/>
 <img src='https://user-images.githubusercontent.com/21959879/103458568-41ee4980-4d2b-11eb-910e-d27e8f47803d.png'  width='34' align="left"/>
@@ -33,9 +33,9 @@
 
 ### Connect with me:
 
-[<img src='https://user-images.githubusercontent.com/21959879/103458856-b4602900-4d2d-11eb-8b6a-b5cdb48a49c5.png'  width='34' align="left"/>][linkedin]
-[<img src='https://user-images.githubusercontent.com/21959879/103458860-b5915600-4d2d-11eb-85bc-b4591805946d.png'  width='34' align="left"/>][twitter]
-[<img src='https://user-images.githubusercontent.com/21959879/103458862-b5915600-4d2d-11eb-8b9e-00e2c5f28df1.png'  width='34' align="left"/>][facebook]
+[<img src='https://user-images.githubusercontent.com/21959879/103458856-b4602900-4d2d-11eb-8b6a-b5cdb48a49c5.png'  width='34' align="left" target="_blank" />][linkedin]
+[<img src='https://user-images.githubusercontent.com/21959879/103458860-b5915600-4d2d-11eb-85bc-b4591805946d.png'  width='34' align="left" target="_blank" />][twitter]
+[<img src='https://user-images.githubusercontent.com/21959879/103458862-b5915600-4d2d-11eb-8b9e-00e2c5f28df1.png'  width='34' align="left" target="_blank" />][facebook]
 
 <br />
 
