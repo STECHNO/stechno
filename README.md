@@ -33,9 +33,9 @@
 
 ### Connect with me:
 
-[<img src='https://user-images.githubusercontent.com/21959879/103458856-b4602900-4d2d-11eb-8b6a-b5cdb48a49c5.png'  width='34' align="left" target="_blank" />][linkedin]
-[<img src='https://user-images.githubusercontent.com/21959879/103458860-b5915600-4d2d-11eb-85bc-b4591805946d.png'  width='34' align="left" target="_blank" />][twitter]
-[<img src='https://user-images.githubusercontent.com/21959879/103458862-b5915600-4d2d-11eb-8b9e-00e2c5f28df1.png'  width='34' align="left" target="_blank" />][facebook]
+[<img src='https://user-images.githubusercontent.com/21959879/103458856-b4602900-4d2d-11eb-8b6a-b5cdb48a49c5.png'  width='34' align="left" />][linkedin]
+[<img src='https://user-images.githubusercontent.com/21959879/103458860-b5915600-4d2d-11eb-85bc-b4591805946d.png'  width='34' align="left" />][twitter]
+[<img src='https://user-images.githubusercontent.com/21959879/103458862-b5915600-4d2d-11eb-8b9e-00e2c5f28df1.png'  width='34' align="left" />][facebook]
 
 <br />
 
