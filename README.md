@@ -4,7 +4,7 @@
 **STECHNO/stechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I'm a Full Stack Developer, who love to code......
+### I'm a React JavaScript Developer, who love to code......
 
 - 🌱  I’m currently learning Nodejs, Expressjs and AWS
 - 👯  I’m looking to collaborate with other passionate developers.
