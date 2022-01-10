@@ -8,8 +8,8 @@
 
 - 🌱  I’m currently learning Nodejs, Expressjs and AWS
 - 👯  I’m looking to collaborate with other passionate developers.
-- 🥅  2021 Goals: Contribute more to Open Source projects
-- ⚡   Fun fact: I love foods & gadgets
+- 🥅  2022 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love foods & gadgets
 
 
 ### Language & Tools:
