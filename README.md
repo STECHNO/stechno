@@ -6,7 +6,7 @@
 
 ### I'm a Full Stack MERN Developer, who love to code......
 
-- 🌱  I’m currently learning Nodejs, Expressjs and AWS
+- 🌱  I’m currently learning AWS
 - 👯  I’m looking to collaborate with other passionate developers.
 - 🥅  2022 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love foods & gadgets
@@ -44,3 +44,4 @@
 [linkedin]: https://www.linkedin.com/in/saleheen-noor/
 [twitter]: https://twitter.com/isaleheen
 [facebook]: https://www.facebook.com/saleheen.noor/
+[portfolio]: https://saleheennoor.com
