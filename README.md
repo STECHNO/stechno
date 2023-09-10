@@ -19,7 +19,7 @@
 
 <!-- [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg'  width='34px' height="34px"  align="left" />][linkedin]-->
 [<img src='https://skillicons.dev/icons?i=linkedin'  width='34px' height="34px"  align="left" />][linkedin]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  width='34px' height="34px" align="left" />][twitter]
+[<img src='https://skillicons.dev/icons?i=twitter'  width='34px' height="34px" align="left" />][twitter]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg"  width='34px' height="34px" align="left" />][facebook]
 
 <br />
