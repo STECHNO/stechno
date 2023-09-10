@@ -45,7 +45,7 @@
 <br />
 
 
-[![Saleheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=STECHNO)](https://github.com/STECHNO/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STECHNO&layout=compact)
 
 ---
 
