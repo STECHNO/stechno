@@ -18,9 +18,10 @@
 ### Connect with me:
 
 <!-- [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg'  width='34px' height="34px"  align="left" />][linkedin]-->
-[<img src="https://img.icons8.com/fluency/48/linkedin.png"  width='34px' height="34px"  align="left" />][linkedin]
-[<img src='https://skillicons.dev/icons?i=twitter'  width='34px' height="34px" align="left" />][twitter]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg"  width='34px' height="34px" align="left" />][facebook]
+[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width='48px' height="48px" align="left" />][facebook]
+[<img src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="Twitter" width='48px' height="48px" align="left" />][twitter]
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" width='48px' height="48px"  align="left" />][linkedin]
+[<img src="https://img.icons8.com/color/48/stackoverflow.png" alt="Stackoverflow"  width='48px' height="48px"  align="left" />][stackoverflow]
 
 <br />
 <br />
@@ -34,3 +35,4 @@
 [twitter]: https://twitter.com/isaleheen
 [facebook]: https://www.facebook.com/saleheen.noor/
 [portfolio]: https://saleheennoor.com
+[stackoverflow]: https://stackoverflow.com/users/6567203/saleheen-noor)https://stackoverflow.com/users/6567203/saleheen-noor
