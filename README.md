@@ -18,7 +18,6 @@
 <br />
 <br />
 
-
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg'  width='34px' height="34px"  align="left" />][linkedin]
