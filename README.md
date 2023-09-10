@@ -37,7 +37,7 @@
 
 ### Language & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,scss,bootstrap,tailwind,js,react,next,nodejs,express,mongodb,firebase,npm,git,github,aws,gcp&perline=3)](https://skillicons.dev)
 
 <br />
 <br />
