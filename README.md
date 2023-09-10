@@ -35,5 +35,6 @@
 [facebook]: https://www.facebook.com/saleheen.noor
 [twitter]: https://twitter.com/isaleheen
 [linkedin]: https://www.linkedin.com/in/saleheen-noor
-[stackoverflow]: https://stackoverflow.com/users/6567203/saleheen-noor)https://stackoverflow.com/users/6567203/saleheen-noor
-[portfolio]: https://saleheennoor.com
+[stackoverflow]: https://stackoverflow.com/users/6567203/saleheen-noor
+[portfolio]: https://www.saleheennoor.com
+
