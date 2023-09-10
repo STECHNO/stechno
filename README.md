@@ -22,7 +22,7 @@
 [<img src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="Twitter" width='48px' height="48px" align="left" />][twitter]
 [<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" width='48px' height="48px"  align="left" />][linkedin]
 [<img src="https://img.icons8.com/color/48/stackoverflow.png" alt="Stackoverflow"  width='48px' height="48px"  align="left" />][stackoverflow]
-[<img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio"  width='48px' height="48px"  align="left" />][portfolio]
+[<img src="https://img.icons8.com/ios/48/domain--v1.png"  alt="Portfolio"  width='48px' height="48px"  align="left" />][portfolio]
 
 <br />
 <br />
