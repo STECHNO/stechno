@@ -16,7 +16,6 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,scss,bootstrap,materialui,tailwind,js,react,next,redux,vite,electron,nodejs,express,postman,mongodb,firebase,git,github,aws,gcp)
 
 <br />
-<br />
 
 ### Connect with me:
 
