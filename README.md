@@ -35,7 +35,6 @@
 <br />
 <br />
 
--
 
 ### Connect with me:
 
@@ -45,13 +44,11 @@
 
 <br />
 
----
 
 ### Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STECHNO&layout=compact)
 
----
 
 [linkedin]: https://www.linkedin.com/in/saleheen-noor/
 [twitter]: https://twitter.com/isaleheen
