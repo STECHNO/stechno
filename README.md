@@ -18,11 +18,11 @@
 ### Connect with me:
 
 <!-- [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg'  width='34px' height="34px"  align="left" />][linkedin]-->
-[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" align="left" />][facebook]
-[<img src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="Twitter" align="left" />][twitter]
-[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" align="left" />][linkedin]
-[<img src="https://img.icons8.com/color/48/stackoverflow.png" alt="Stackoverflow" align="left" />][stackoverflow]
-[<img src="https://img.icons8.com/ios/48/domain--v1.png"  alt="Portfolio" align="left" />][portfolio]
+[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" />][facebook]
+[<img src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="Twitter" />][twitter]
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin"  />][linkedin]
+[<img src="https://img.icons8.com/color/48/stackoverflow.png" alt="Stackoverflow" />][stackoverflow]
+[<img src="https://img.icons8.com/ios/48/domain--v1.png"  alt="Portfolio" />][portfolio]
 
 <br />
 <br />
