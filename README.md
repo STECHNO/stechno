@@ -44,6 +44,8 @@
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=STECHNO&style=flat-square)
+
 ### Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STECHNO&layout=compact)
