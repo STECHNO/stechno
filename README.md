@@ -44,7 +44,6 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=STECHNO&style=flat-square)
 
 ### Stats:
 
