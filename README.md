@@ -15,8 +15,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,scss,bootstrap,materialui,tailwind,js,react,next,redux,vite,electron,nodejs,express,postman,mongodb,firebase,git,github,aws,gcp)
 
-<br />
-
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg'  width='34px' height="34px"  align="left" />][linkedin]
