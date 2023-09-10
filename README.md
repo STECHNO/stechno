@@ -44,6 +44,9 @@
 
 <br />
 
+
+[![Saleheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=STECHNO)](https://github.com/STECHNO/github-readme-stats)
+
 ---
 
 [linkedin]: https://www.linkedin.com/in/saleheen-noor/
