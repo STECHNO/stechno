@@ -8,7 +8,7 @@
 
 - 🌱  I’m currently learning AWS
 - 👯  I’m looking to collaborate with other passionate developers.
-- 🥅  2023 Goals: Contribute more to Open Source projects
+- 🥅  2024 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love foods & gadgets
 
 ### Language & Tools:
